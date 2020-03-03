@@ -57,8 +57,6 @@ Bentuk dari variabel ini biasanya digunakan untuk mengantarkan data yang ada dar
 
 ### Latihan 5
 ![Alt Text](https://github.com/sofiaij/MODUL-1-2-PHP/blob/master/5a1.PNG)
-
-### Latihan 2
 ![Alt Text](https://github.com/sofiaij/MODUL-1-2-PHP/blob/master/5a2.PNG)
 
 
